@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+hyperopt
+xgboost
+cvxpy
+scikit-posthocs
+ucimlrepo
+matplotlib
+pytest
